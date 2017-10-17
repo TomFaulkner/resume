@@ -1,5 +1,6 @@
 THOMAS FAULKNER
 ===============
+tomfaulkner@gmail.com | https://github.com/TomFaulkner
 
 SUMMARY OF QUALIFICATIONS
 -------------------------
