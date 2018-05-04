@@ -49,9 +49,19 @@ CERTIFICATIONS AND EDUCATION
 
 WORK EXPERIENCE
 ---------------
+- Riverstone Software
+
+  2017 - present
+  
+  **Software Engineer**
+  * Full Stack developer in Python, ReactJS, and Django
+    
+    * REST APIs
+    * ReactJS Single Page Application front-end
+
 - CenturyLink - Operational Network Augmentation
 
-  2012 – present
+  2012 – 2017
 
   **Network Engineer II**
   
@@ -66,7 +76,7 @@ WORK EXPERIENCE
       capacity migrations.
     * Including an automated update system with usage tracking, remote program
       disabling if necessary, and an automated build system using Jenkins and Gitlab.
-    * With one set of scripts, increased maintenances per day per person from 5 to 25
+    * With one set of scripts, increased network maintenances per day per person from 5 to 25
       at present time with more expected in the future.
 
   * Network Engineering:
