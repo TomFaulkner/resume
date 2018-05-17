@@ -56,8 +56,10 @@ WORK EXPERIENCE
   **Software Engineer**
   * Full Stack developer in Python, ReactJS, and Django
     
-    * REST APIs
-    * ReactJS Single Page Application front-end
+    * Implemented REST APIs using OpenAPI 2.0 in Python both within Django and in standalone microservice containers (Docker).
+    * Contributed to ReactJS Single Page Application front-end.
+    * Migrated projects to CircleCI 2.0 for automated linting and unit-testing.
+    
 
 - CenturyLink - Operational Network Augmentation
 
