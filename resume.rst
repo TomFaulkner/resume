@@ -6,7 +6,8 @@ SUMMARY OF QUALIFICATIONS
 -------------------------
 Areas of expertise include:
 
-- Python scripting for automated network provisioning, auditing, and reporting
+- Python programming for REST APIs (web backends), automated network provisioning, auditing, and reporting
+- ReactJS Single Page Applications
 - Carrier Access networking on Ethernet and ATM networks
 - Adtran Total Access DSLAMs, including TA-5000, TA-1x48 series, and TA-3000
 - Calix C7 and E series DSLAMS and Carrier Ethernet Switches
@@ -49,12 +50,26 @@ CERTIFICATIONS AND EDUCATION
 
 WORK EXPERIENCE
 ---------------
-- CenturyLink - Operational Network Augmentation
 
-  2012 – present
+Riverstone Software
+
+  2017 - present
+
+  **Software Engineer**
+
+  * Full Stack developer in Python, ReactJS, Redux, and Django:
+
+    * Implemented REST APIs using OpenAPI 2.0 in Python both within Django and in standalone microservice containers (Docker).
+    * Contributed to ReactJS Single Page Application front-end.
+    * Migrated projects to CircleCI 2.0 for automated linting and unit-testing.
+
+
+CenturyLink - Operational Network Augmentation
+
+  2012 – 2017
 
   **Network Engineer II**
-  
+
   * Frequently served as first point-of-contact and in-charge when supervisor out-of-office.
 
   * Programming and Automation:
@@ -66,18 +81,18 @@ WORK EXPERIENCE
       capacity migrations.
     * Including an automated update system with usage tracking, remote program
       disabling if necessary, and an automated build system using Jenkins and Gitlab.
-    * With one set of scripts, increased maintenances per day per person from 5 to 25
+    * With one set of scripts, increased network maintenances per day per person from 5 to 25
       at present time with more expected in the future.
 
   * Network Engineering:
-  
+
     * Documented procedures for projects that the team had never done before, working with vendors to determine feasibility and the best procedure, redesigning the proposed configuration as required.
     * Managed and performed proactive maintenances on network elements for voice, video, and data networks.
     * Developed plans to augment capacity relief.
     * Performed engineering work and applied research, development and design of new projects including physical and logical projects.
 
 
-- NCR
+NCR
 
   2005 - 2011
 
@@ -102,7 +117,7 @@ WORK EXPERIENCE
   * Providing phone and on location support
   * Designing and implementing small to medium networks
 
-- Office Specialists: Computer Division
+Office Specialists: Computer Division
 
   2002 - 2003
 
