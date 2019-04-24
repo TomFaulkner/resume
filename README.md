@@ -1,4 +1,7 @@
 # resume
-Resume in reStructuredText format: https://github.com/TomFaulkner/resume/blob/master/resume.rst
+My resume in various formats.
+PRs welcome. :)
 
-Word and HTML coming soon.
+
+TODO: Resume in Markdown with proper CSS to convert to Word and PDF automatically without me having to mess around with an Office type product.
+

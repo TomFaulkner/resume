@@ -1,0 +1,60 @@
+﻿THOMAS FAULKNER
+tomfaulkner@gmail.com | https://github.com/TomFaulkner
+Areas of Expertise
+* Python programming for REST APIs (web backends), automated network provisioning, auditing, user tools, and reporting
+* ReactJS Single Page Applications using ES6 and Redux 
+* Calix, Adtran, and Tellabs DSLAMs and Carrier Ethernet and ATM Switches 
+* Network ring technologies, including ERPS, RSTP, and Sonet on Adtran and Calix Access and Distribution equipment.
+* Troubleshooting and debugging software, hardware, and network issues.
+* Working with other teams including project owners, network standards, engineering, planning, and change management.
+* Working with remote technicians and end-users to perform migrations or support.
+Certifications and Education
+* CCNP/CCNA – Cisco Certified Network Professional/Associate (Expired 2004) 
+* MCP – Microsoft Certified Professional certifications in the following:
+   * Installing and Configuring Windows 2000 Professional 
+   * Installing and Configuring Windows 2000 Server 
+   * Managing a Windows 2000 Network Environment. 
+* CompTIA A+ Certified Hardware Technician
+* Associates in Applied Science in Computer Networking
+1999 - 2004 Carl Sandburg College. Galesburg, IL
+Fields of study:
+   * Cisco Networking Academy 
+   * Microsoft IT Academy 
+   * Network Security 
+   * Unix/Linux 
+   * Computer Programming, Hardware, and Software
+Work Experience
+Full Stack Software Engineer
+RiverStone Software, 2017 - present
+* Primary tools: Python, ReactJS, Redux, Django, Connexxion, Flask, AWS
+* Implemented REST APIs using Swagger/OpenAPI Docker microservices in Python with Django, Flask, and Connexxion and Node with Express.
+* Migrated projects to CircleCI 2.0 for automated unit-testing and linting.
+* Built Amazon AWS infrastructure using Terraform.
+* Created a server side HTML rendering microservice with Node using Express and React to handle rendering a print view of pages that were too complex to render using React in a browser in a timely manner.
+* Lead and trained new developers.
+* Broke down user stories to create backlog issues and to assign features to team.
+Network Engineer II
+CenturyLink - Operational Network Augmentation, 2012 – 2017
+Recognized as Top Performer for 2016
+Served as first point-of-contact and in-charge when supervisor out-of-office.
+Programming and Automation:
+* Developed tools that improved efficiency by increasing network maintenances per day per person from 5 to 25, a 500% increase.
+* Developed an automated update system with usage tracking, remote program disablement, and an automated build system using Jenkins and GitLab.
+* Automated auditing, provisioning, and reporting, of Access and Distribution network using Python, Perl, Talend DI, and multiple databases.
+* Automated data collection from 54 Redback Broadband Remote Access Servers, enriched with market data, to provide planning a resource to aid in device selection for Centralized BRAS and network capacity migrations.
+* Wrote automation tools for use on Linux servers and Windows desktops. 
+Network Engineering:
+* Documented procedures for projects that the team had not done before, working with vendors to determine feasibility and the best procedure, redesigning the proposed configuration as required. 
+* Managed and performed proactive maintenances on network elements for voice, video, and data networks. 
+* Developed plans to augment capacity relief.
+* Performed engineering work and applied research, development and design of new projects including physical and logical projects.
+Customer Engineer II
+NCR - Field Operations - 2005 - 2011
+Accomplishments
+Exceeded goal service level agreement metrics five years in a row with a rate of 97.5% of all metrics met with a goal of 85%.
+Installation, Service, and Support
+* PC and Server hardware (Dell, IBM, NCR, and Sony) 
+* Cisco network equipment (Routers and Switches) 
+* Automated Teller Machines (ATMs) 
+* Printers (Lexmark, HP, Tally/Genicom) 
+* Point of Sale Terminals (IBM and NCR)
